@@ -1,0 +1,198 @@
+{
+  "salon": "Queen Paris",
+  "adresse": "12 Rue Brantôme, 75003 Paris",
+  "note": "4.6",
+  "prestations": {
+    "Beauté": [
+      {
+        "nom": "Pose Vernis Semi-permanent - Mains ou Pieds",
+        "durée": "30min",
+        "tarif": "25€"
+      },
+      {
+        "nom": "Beauté des Mains Sans Vernis",
+        "durée": "30min",
+        "tarif": "16€"
+      },
+      {
+        "nom": "Beauté Des Mains + Pose de Vernis Classique",
+        "durée": "30min",
+        "tarif": "24€"
+      },
+      {
+        "nom": "Beauté des Mains & Pose de Vernis Semi-permanent",
+        "durée": "30min",
+        "tarif": "38€"
+      },
+      {
+        "nom": "Beauté Express Simple Avec Vernis Normal - Pieds",
+        "durée": "30min",
+        "tarif": "23€"
+      }
+    ],
+    "Beauté pour Messieurs": [
+      {
+        "nom": "Beauté des Mains",
+        "durée": "30min",
+        "tarif": "16€"
+      },
+      {
+        "nom": "Beauté des Pieds",
+        "durée": "1h",
+        "tarif": "29€"
+      }
+    ],
+    "Extension d'Ongles": [
+      {
+        "nom": "Pose Complète Résine + Vernis Semi-Permanent",
+        "durée": "50min",
+        "tarif": "50€"
+      },
+      {
+        "nom": "Pose Complète Gel Acrylique + Vernis Semi-Permanent",
+        "durée": "50min",
+        "tarif": "55€"
+      },
+      {
+        "nom": "Pose Gel Liquide + Vernis Semi-Permanent",
+        "durée": "1h 20min",
+        "tarif": "70€"
+      },
+      {
+        "nom": "Renfort Résine Sur Ongles Naturels + Vernis Semi-Permanent",
+        "durée": "40min",
+        "tarif": "50€"
+      },
+      {
+        "nom": "Pose Gainage Résine + Vernis Semi-Permanent",
+        "durée": "40min",
+        "tarif": "50€"
+      }
+    ],
+    "Extension Chablons": [
+      {
+        "nom": "Pose Complète Chablons Résine + Vernis Semi-Permanent - Mains",
+        "durée": "55min",
+        "tarif": "65€"
+      },
+      {
+        "nom": "Pose Chablons Gel Acrylique + Baby Boomer",
+        "durée": "1h",
+        "tarif": "80€"
+      },
+      {
+        "nom": "Pose Chablons Gel Liquide + Baby Boomer",
+        "durée": "1h 20min",
+        "tarif": "105€"
+      },
+      {
+        "nom": "Pose Chablons Gel Acrylique + Vernis French Semi-Permanent",
+        "durée": "1h",
+        "tarif": "80€"
+      },
+      {
+        "nom": "Pose Chablons Gel Liquide + Vernis French Semi-Permanent - Mains",
+        "durée": "1h 20min",
+        "tarif": "105€"
+      },
+      {
+        "nom": "Pose Complète Chablons Résine + Baby Boomer",
+        "durée": "1h",
+        "tarif": "70€"
+      },
+      {
+        "nom": "Pose Chablons Gel Acrylique + Vernis Semi-Permanent",
+        "durée": "1h",
+        "tarif": "75€"
+      }
+    ],
+    "Dip Powder": [
+      {
+        "nom": "Pose Dip Powder sur Ongles Naturels - Mains",
+        "durée": "45min",
+        "tarif": "50€"
+      },
+      {
+        "nom": "Pose Dip Powder sur les Extensions - Mains",
+        "durée": "45min",
+        "tarif": "59€"
+      }
+    ],
+    "Gel-X": [
+      {
+        "nom": "Pose de Gel-X Avec Vernis Semi-Permanent",
+        "durée": "50min",
+        "tarif": "50€"
+      },
+      {
+        "nom": "Pose de Gel-X Avec Vernis French Semi-Permanent",
+        "durée": "55min",
+        "tarif": "55€"
+      },
+      {
+        "nom": "Pose de Gel-X Avec Baby Boomer",
+        "durée": "55min",
+        "tarif": "55€"
+      }
+    ],
+    "Remplissage": [
+      {
+        "nom": "Remplissage Résine + Vernis Semi-Permanent",
+        "durée": "40min",
+        "tarif": "45€"
+      },
+      {
+        "nom": "Remplissage Gel Acrylique + Vernis Semi-Permanent",
+        "durée": "40min",
+        "tarif": "50€"
+      },
+      {
+        "nom": "Remplissage Gel Liquide + Vernis Semi-Permanent",
+        "durée": "1h 10min",
+        "tarif": "65€"
+      },
+      {
+        "nom": "Remplissage Résine + Vernis French Semi-Permanent",
+        "durée": "50min",
+        "tarif": "50€"
+      },
+      {
+        "nom": "Remplissage Gel Acrylique + Vernis French Semi-Permanent",
+        "durée": "55min",
+        "tarif": "55€"
+      },
+      {
+        "nom": "Remplissage Gel Liquide + Vernis French Semi-Permanent",
+        "durée": "1h 10min",
+        "tarif": "70€"
+      }
+    ],
+    "Divers": [
+      {
+        "nom": "Longueur Faux Ongles Supplémentaire",
+        "durée": "10min",
+        "tarif": "5€"
+      },
+      {
+        "nom": "Pose de Strass (Prix pour 3 Strass)",
+        "durée": "2min",
+        "tarif": "1€"
+      },
+      {
+        "nom": "Nail Art personnalisé (par ongle)",
+        "durée": "5min",
+        "tarif": "5€"
+      },
+      {
+        "nom": "Dépose Faux Ongles",
+        "durée": "15min",
+        "tarif": "20€"
+      },
+      {
+        "nom": "Dépose Semi-permanent",
+        "durée": "10min",
+        "tarif": "15€"
+      }
+    ]
+  }
+}

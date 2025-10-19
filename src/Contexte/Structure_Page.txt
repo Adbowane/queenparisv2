@@ -1,0 +1,41 @@
+1. Accueil (Home)
+
+Utilité : Page d'entrée pour capter l'attention immédiate et convertir les visiteurs en RDV (taux de rebond <40% visé). Elle sert de vitrine visuelle pour incarner le "luxe accessible et créatif" du salon, en mettant en avant l'ambiance cosy du passage des Ménétriers et en générant du désir via des visuels inspirants. Idéal pour SEO global et pour attirer du trafic organique via Google Images (recherches "idées manucure Paris").
+Éléments clés : Hero banner avec vidéo courte d'une session manucure (30s), teaser services (3 cards : Extensions, Soins Mains, Nail Art), CTA proéminent "Réservez en Ligne" vers Calendly/Planity embed, + section "Pourquoi Queen Paris ?" (3 bullet points : Créativité, Inclusivité Hommes/Femmes, Ouvert Dimanche).
+
+2. À Propos (About Us)
+
+Utilité : Humaniser le salon pour bâtir la confiance et la fidélité, en racontant l'histoire de Bin et Hélène (prothésistes passionnées) et l'identité empowering ("ongles uniques, comme vous"). Cela renforce la différenciation vs concurrents anonymes, + SEO pour "salon manucure convivial Paris 3e", et encourage les partages sociaux (émotionnel).
+Éléments clés : Bios courtes des 2 prothésistes (photos, spécialités : Bin pour gel acrylique, Hélène pour designs créatifs), timeline du salon (depuis ouverture, focus 2022+), embeds Instagram pour behind-the-scenes, + valeurs (écoute, créativité, bien-être en 30min).
+
+3. Services (Services)
+
+Utilité : Éduquer les clients sur l'offre exhaustive (35+ prestations) pour réduire les questions RDV et augmenter le panier moyen (+15% via upsell add-ons comme nail art). Sert de hub pour navigation thématique, + SEO spécifique ("pose gel-X Paris", "remplissage extensions ongles").
+Éléments clés : Sous-menu ou accordéon par catégorie (Beauté, Extensions Chablons, Dip Powder, etc.), descriptions détaillées (durée, prix, bénéfices), icônes visuelles (main stylée), + CTA "Choisir ce Service" vers Réservation avec pre-fill (ex. ?service=pose-gel-x).
+
+4. Galerie (Gallery/Portfolio)
+
+Utilité : Booster l'engagement visuel (80% des décisions beauté basées sur images), en montrant des réalisations créatives (french, baby boomer, motifs personnalisés) pour inspirer et convertir (clics RDV +25%). Idéal pour SEO images et user-generated content (inviter clients à soumettre photos).
+Éléments clés : Grille filtrable par type (Extensions, Nail Art, Mains Messieurs), 50+ photos avant/après (formats Insta : 1080x1080 carrés), modal zoom avec détails (prix, durée), + section "Inspiration du Mois" (3 looks saisonniers).
+
+5. Tarifs (Pricing)
+
+Utilité : Assurer transparence pour attirer une clientèle budget-consciente (prix fixes 16-105€), réduire les abandons de RDV, et faciliter l'upsell (ex. +5€ pour strass). + SEO pour "tarifs manucure Paris Marais", + outil de comparaison pour concurrents.
+Éléments clés : Tableau responsive (colonnes : Service, Durée, Prix, Add-ons), filtres (Mains/Pieds/Extensions), notes pratiques (paiement sur place), + calculateur simple (sélectionner service + add-ons pour total estimatif).
+
+6. Réservation (Booking)
+
+Utilité : Centraliser les conversions (objectif : 50% des visites → RDV), en intégrant Planity/Calendly pour disponibilités en temps réel, réduisant les no-shows via rappels email. + SEO pour "prendre RDV manucure Paris 3e", + tracking analytics pour optimiser horaires (ex. pics midi/dimanche).
+Éléments clés : Formulaire interactif (nom, email, service dropdown, date/heure picker), embed Calendly full-width, slots visuels (calendrier mensuel), + FAQ RDV (annulations gratuites <24h, paiement sur place).
+
+7. Témoignages (Testimonials/Avis)
+
+Utilité : Renforcer la crédibilité (basé sur 4.6/5 Planity), en collectant/user-generated reviews pour +30% confiance, + SEO via schema markup (étoiles Google). Encourage fidélisation (clients reviennent pour "comme vu en avis").
+Éléments clés : Slider/carrousel 10+ avis (textes + étoiles, photos clients anonymes), filtre par service (ex. "Avis sur Gel-X"), + formulaire "Partagez votre Expérience" (intègre à Google Reviews/Planity).
+
+8. Contact (Contact Us)
+
+Utilité : Faciliter les demandes hors RDV (questions produits, partenariats), + SEO local (adresse embed Google Maps pour "salon ongles près Etienne Marcel"). Sert de fallback pour non-tech clients, + lead gen via formulaire.
+Éléments clés : Formulaire (nom, email, message, pièces jointes pour inspi designs), carte interactive (adresse 12 Rue Brantôme, métro Etienne Marcel), horaires détaillés, liens WhatsApp/Instagram (si ajoutés), + FAQ basique (ex. "Paiement accepté ?").
+
+Recommandations Globales : Navigation sticky (mobile hamburger), footer avec liens sociaux/horaires/contact, + blog optionnel (page 9 : Tendances) pour SEO long-tail ("tendances nail art automne 2025"). Tech : WordPress pour simplicité, + plugins (Elementor pour design, Yoast SEO). Budget est. : 1 000-2 000€ création, +50€/mois maintenance. Ce site transformerait Queen Paris en marque forte, +40% trafic vs Planity seul. Si besoin wireframes ou ajustements, dis-moi !
